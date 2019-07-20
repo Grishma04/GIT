@@ -18,3 +18,7 @@ public void set title(String title)
 {
 	this.title=title;	
 }
+public void hello()
+{
+ author="grishma";
+}
