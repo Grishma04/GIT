@@ -22,3 +22,7 @@ public void hello()
 {
  author="grishma";
 }
+public void show()
+{
+	title="Java";
+}
