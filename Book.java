@@ -18,7 +18,3 @@ public void set title(String title)
 {
 	this.title=title;	
 }
-public void setter author(String author)
-{
-	this.author=author;
-}
