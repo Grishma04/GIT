@@ -26,3 +26,7 @@ public void show()
 {
 	title="Java";
 }
+public void test()
+{
+ 	title="Amissssaaaaaaa";	
+}
