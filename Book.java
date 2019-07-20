@@ -6,3 +6,11 @@ public class Book
 	private float price;
 
 }
+public void setBookId(int bookId)
+{
+	this.bookId=bookId;
+}
+public int setBookId(int bookId)
+{s
+	return bookId;
+}
